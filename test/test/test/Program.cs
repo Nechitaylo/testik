@@ -15,6 +15,7 @@ namespace test
             int c;
             c = a - i;
             Console.WriteLine("c=" + c);
+            Console.WriteLine("pizda");
             Console.ReadKey();
         }
     }
